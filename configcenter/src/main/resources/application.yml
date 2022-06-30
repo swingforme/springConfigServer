@@ -10,3 +10,5 @@ spring:
           search-locations: classpath:/config
   profiles:
     active: native
+encrypt:
+  key: hm
