@@ -1,0 +1,9 @@
+server:
+  port: 9527
+
+spring:
+  application:
+    name: zuul-center
+
+zuul:
+  routes:
