@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/client1/pom.xml" />
         <option value="$PROJECT_DIR$/configcenter/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-center/pom.xml" />
       </list>
     </option>
   </component>

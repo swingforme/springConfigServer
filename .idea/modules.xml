@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/client1/client1.iml" filepath="$PROJECT_DIR$/client1/client1.iml" />
       <module fileurl="file://$PROJECT_DIR$/configcenter/configcenter.iml" filepath="$PROJECT_DIR$/configcenter/configcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springConfigServer.iml" filepath="$PROJECT_DIR$/.idea/springConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-center/zuul-center.iml" filepath="$PROJECT_DIR$/zuul-center/zuul-center.iml" />
     </modules>
   </component>
 </project>
