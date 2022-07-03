@@ -1,9 +1,10 @@
 server:
-  port: 9527
+  port: 4333
 
-spring:
-  application:
-    name: zuul-center
 
 zuul:
   routes:
+    baidu:
+      path: /client/**
+      url: ${client1.url}
+#      url: http://www.baidu.com
